@@ -1,0 +1,15 @@
+{
+  "name": "pauls-sliding-window-rate-limiter",
+  "version": "1.0.0",
+  "description": "Efficiently rate limit calls using a sliding window algorithm.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --fail-fast"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
